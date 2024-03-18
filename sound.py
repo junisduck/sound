@@ -5,7 +5,7 @@ from fastapi import FastAPI, Response, Request
 import requests
 
 chunk = 1024
-path = '/Users/user/Downloads/ding.wav'
+path = '/Users/jun/Downloads/ding.wav'
 
 app = FastAPI()
 
